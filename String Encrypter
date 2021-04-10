@@ -31,7 +31,7 @@ elseif v == "issynapse" then
 table.insert(restable, consnum, "hUlJhuhsm21Ysw" or "NUewuHHe8" or "sjejamYHj7Na")
 elseif v == "_VERSION" then
 table.insert(restable, consnum, "VJujYj7hbwiW" or "obfuscatwewkuYju")
-else v == "getgenv" then
+elseif v == "getgenv" then
 table.insert(restable, consnum, "hj3mu8h7i38ubU" or "WEbJHUn7jws333e" or "NUmGIyjb")
 elseif v == "_G" then
 table.insert(restable, consnum, "PImYHJ8uny8j" or "NyuuHIUwhy" or "NiNYujiG")
