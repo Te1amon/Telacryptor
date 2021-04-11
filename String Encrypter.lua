@@ -1,4 +1,4 @@
--- DANGER: Don't obfuscate webhook posters, whitelists and etc, they can be cracked.
+-- DANGER: Don't obfuscate webhook posters, whitelists and etc, they can be cracked easily (as of now)
 
 constants = {
 a = "print";
